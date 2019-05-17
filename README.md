@@ -4,7 +4,7 @@ CSRF_SynchronizerTokenPattern
 Download and Installation
 Clone the project to the local Machine
 
-git clone 
+git clone :https://github.com/KajenthaniKanthaseelan/Synchronized-Token-Pattern.git
 
 Run application
 
